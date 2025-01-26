@@ -35,7 +35,7 @@ Follow these steps to set up the project on your local machine:
 
     Start the Gradio application by executing
    ```bash
-   python your_script_name.py
+   python summarizer+questions.py
 
 
 2. **Access the interface:**
@@ -73,7 +73,7 @@ Follow these steps to set up the project on your local machine:
 2. Ask a question, e.g., "What is the main topic of the transcription?".
 3. View the transcription and the answer in real-time.
 
-###Summarization
+### Summarization
 1. Paste a block of text.
 2. Click Summarize to generate a concise summary.
 
