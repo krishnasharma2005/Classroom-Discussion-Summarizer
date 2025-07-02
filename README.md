@@ -19,7 +19,7 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/krishnasharma2005/Classroom-Discussion-sSummarizer.git
+   git clone https://github.com/krishnasharma2005/Classroom-Discussion-Summarizer.git
    cd Classroom-Discussion-Summarizer
 
 2. **Install Dependencies:** Install the required python libraries
